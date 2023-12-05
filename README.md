@@ -4,9 +4,10 @@
 Project slideshow link: 
 ---
 # Project Overview: 
-The aim of our project is to develop a machine learning algorithm to sort through the New York realtor data set to establish a relationship between the house features (house size (square feet), number of bedrooms, number of bathrooms, lot size (acres), and city) and the house price.
+The aim of our project is to develop a machine learning algorithm to sort through the New York realtor data set to establish a relationship between the house features (house size (square feet), number of bedrooms, number of bathrooms, lot size (acres), and city) and price of the home.
 
-### Research Question: Which features have the greatest impact on home price (square footage, number of bedrooms, number of bathrooms, etc.)?
+### Research Question: 
+Which features have the greatest impact on home price (square footage, number of bedrooms, number of bathrooms, etc.)?
 ---
 # Analysis: 
 
