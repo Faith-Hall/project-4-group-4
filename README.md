@@ -4,7 +4,7 @@
 Project slideshow link: 
 ---
 # Project Overview: 
-The aim of our project is to develop a machine learning algorithm to sort through the “Housing Price Prediction” data set to establish a relationship between the features (SquareFeet, Bedrooms, Bathrooms, City/state/zip code, and acres) and the target (house price).
+The aim of our project is to develop a machine learning algorithm to sort through the New York realtor data set to establish a relationship between the features (SquareFeet, Bedrooms, Bathrooms, City/state/zip code, and acres) and the house price.
 
 ### Research Question: Which features have the greatest impact on home price (square footage, number of bedrooms, number of bathrooms, etc.)?
 ---
