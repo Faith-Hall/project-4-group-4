@@ -17,12 +17,12 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9349b6da-1c03-4ff1-88f7-56b156c6491f)
 
 <p float="left">
+  <img src="/Visualizations/bronx_plot.png" width="300" />
   <img src="/Visualizations/brooklyn_plot.png" width="300" />
   <img src="/Visualizations/manhattan_plot.png" width="300" /> 
-  <img src="/Visualizations/staten_island_plot.png" width="300" />
 </p>
 <p float="left">
-  <img src="/Visualizations/bronx_plot.png" width="300" />
+  <img src="/Visualizations/staten_island_plot.png" width="300" />
   <img src="/Visualizations/queens_plot.png" width="300" /> 
 </p>
 
