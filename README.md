@@ -16,11 +16,11 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 ### New York City Boroughs Map
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9349b6da-1c03-4ff1-88f7-56b156c6491f)
 
-![bronx_plot](/Readme_imgs/A3_1.png)
-![brooklyn_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/0a3051dc-b9af-42e4-9e80-ac9d5cb1324a)
-![manhattan_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/1fca2329-b2ed-4ecd-bbe2-f32e8f436d84)
-![queens_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/50e5262b-08ac-4f50-b948-52ae3daa62fd)
-![staten_island_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/ae428db5-598d-4d9b-a4b2-e221cccad88a)
+![manhattan_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/5d659baa-4fc7-4dd9-b7c8-893f4a386911)
+![brooklyn_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/2602ff64-bd51-4075-a344-2c80bb877655)
+![staten_island_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/6fe035c8-e946-4afd-8ad2-4109578d61d0)
+![bronx_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/31d74912-ea11-49a9-b239-9de1e5911c2e)
+![queens_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9eb70c96-186b-483f-8546-3145f920d01a)
 
 ---
 ### Resources: 
