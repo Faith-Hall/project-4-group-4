@@ -18,8 +18,8 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 
 <p float="left">
   <img src="/Visualizations/bronx_plot.png" width="300" />
-  <img src="/Visualizations/brooklyn_plot.png" width="300" />
-  <img src="/Visualizations/manhattan_plot.png" width="300" /> 
+  <img src="/Visualizations/manhattan_plot.png" width="300" />
+  <img src="/Visualizations/brooklyn_plot.png" width="300" /> 
 </p>
 <p float="left">
   <img src="/Visualizations/staten_island_plot.png" width="300" />
