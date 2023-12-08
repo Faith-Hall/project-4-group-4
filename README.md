@@ -17,7 +17,8 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9349b6da-1c03-4ff1-88f7-56b156c6491f)
 
 <p float="left">
-  <img src="/img1.png" width="100" />
+  <img src="/![bronx_plot](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/aa7a28a1-e016-4732-91f7-acf63b7a1324)
+" width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
