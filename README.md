@@ -2,7 +2,7 @@
 ### Contributors: Thomas Keene, Faith Hall, Angela Gosewehr, and Raeshawn Mcallister
 ---
 Project slideshow link: 
-
+---
 Tableau stroy link: https://public.tableau.com/app/profile/angela.gosewehr/viz/housepriceswithstory/NewYorkhousesalestats?publish=yes
 ---
 # Project Overview: 
