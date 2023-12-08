@@ -12,13 +12,14 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 # Analysis: 
 
 ---
-## Visuals
+## Visuals and Plots
 ### New York City Boroughs Map
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9349b6da-1c03-4ff1-88f7-56b156c6491f)
 
 ---
 ### Resources: 
 - Dataset Used: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+- Image of New York City Boroughs Map: https://www.worldatlas.com/articles/the-boroughs-of-new-york-city.html
 
 ### Acknowlegements
 Thank you to our instructional staff: 
