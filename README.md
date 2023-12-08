@@ -16,6 +16,12 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 ### New York City Boroughs Map
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/9349b6da-1c03-4ff1-88f7-56b156c6491f)
 
+House size vs Price: 
+![bronx_plot1](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/f2d36d88-39f3-41f6-a87a-9249c0b04f11)
+![brooklyn_plot2](https://github.com/Faith-Hall/project-4-group-4/assets/135525815/0a3051dc-b9af-42e4-9e80-ac9d5cb1324a)
+
+
+
 ---
 ### Resources: 
 - Dataset Used: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
