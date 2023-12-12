@@ -33,6 +33,10 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 - Dataset Used: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 - Image of New York City Boroughs Map: https://www.worldatlas.com/articles/the-boroughs-of-new-york-city.html
 
+### Web Resources:   
+- https://seaborn.pydata.org/index.html
+- https://www.youtube.com/watch?v=llYimxlsMf4&t=2380s
+ 
 ### Acknowlegements
 Thank you to our instructional staff: 
 - Hunter Hollis
