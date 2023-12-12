@@ -1,7 +1,7 @@
 # Project 4: Group 4
 ### Contributors: Thomas Keene, Faith Hall, Angela Gosewehr, and Raeshawn Mcallister
 ---
-Project slideshow link: 
+Project slideshow link: https://www.canva.com/design/DAF1m1CgodU/d5s7yap5oSPx3qMLeuGY7Q/edit?utm_content=DAF1m1CgodU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 Tableau stroy link: https://public.tableau.com/app/profile/angela.gosewehr/viz/housepriceswithstory/NewYorkhousesalestats?publish=yes
 ---
