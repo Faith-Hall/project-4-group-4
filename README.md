@@ -3,7 +3,9 @@
 ---
 Project slideshow link: https://www.canva.com/design/DAF1m1CgodU/d5s7yap5oSPx3qMLeuGY7Q/edit?utm_content=DAF1m1CgodU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
-Tableau story link: https://public.tableau.com/app/profile/angela.gosewehr/viz/housepriceswithstory/NewYorkhousesalestats?publish=yes
+# Tableau story link: https://public.tableau.com/app/profile/angela.gosewehr/viz/housepriceswithstory/NewYorkhousesalestats?publish=yes
+The link contains several visualizations in a tableau story. These include: A map of New York with hover detail of the average price in that city and two stacked bar graphs showing the relationship between bedroom count with price point and bathroom count with price point.
+
 ---
 # Project Overview: 
 The aim of our project is to develop a machine learning algorithm to sort through the New York realtor data set to establish a relationship between the house features (house size (square feet), number of bedrooms, number of bathrooms, lot size (acres), and city) and price of the home.
