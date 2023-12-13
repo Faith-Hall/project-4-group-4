@@ -53,10 +53,15 @@ Next, to optimize the model further, GridSearchCV was utilized to tune the hyper
 - max_features = max number of features considered for splitting a node (we selected sqrt & log2 as our initial options)
 - max_depth = max number of levels in each decision tree (we selected 5, 10, & 20 as our initial options)
 
-GridSearchCV indicated that the best paramters (based on our inputs) were:   
-- n_estimators = 
-- max_features = max number of features considered for splitting a node
-- max_depth = max number of levels in each decision tree
+After hyperparameter tuning, GridSearchCV indicated that the best paramters (based on our inputs) were:   
+- n_estimators = 100
+- max_features = sqrt
+- max_depth = 20
+
+Utilizing these new parameters, the model was run once again, resulting in the following:
+- R^2 = 0.9843
+- RMSE = 111967.66
+
 
 
 ### Resources: 
