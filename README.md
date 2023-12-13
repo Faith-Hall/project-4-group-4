@@ -38,6 +38,7 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 ### Web Resources:   
 - https://seaborn.pydata.org/index.html
 - https://www.youtube.com/watch?v=llYimxlsMf4&t=2380s
+- https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560#:~:text=OOB%20validation%20is%20much%20faster%20than%20k%2Dfold%20cross%2Dvalidation&text=In%20general%2C%20you%20can%20think,huge%20difference%20in%20compute%20time
  
 ### Acknowlegements
 Thank you to our instructional staff: 
