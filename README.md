@@ -34,7 +34,7 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 
 ---
 ## Model Selection and Optimization
-After cleaning, the data was split into taining and testing sets utilizing an 80/20 split and three options were selected as potential candidates for our machine learning model:
+After cleaning, the data was split into training and testing sets utilizing an 80/20 split and three options were selected as potential candidates for our machine learning model:
 - Linear Regression
 - Decision Tree
 - Random Forest Regression
@@ -49,11 +49,11 @@ Once the Random Forest Regression model was selected, the data were split again 
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/d892f00b-00e7-4bdb-8517-ca7c8e9d300a)
 
 Next, to optimize the model further, GridSearchCV was utilized to tune the hyperparameters of:
-- n_estimators = number of trees in the foreset (we selected 10, 100, & 500 as our initial options)
+- n_estimators = number of trees in the forest (we selected 10, 100, & 500 as our initial options)
 - max_features = max number of features considered for splitting a node (we selected sqrt & log2 as our initial options)
 - max_depth = max number of levels in each decision tree (we selected 5, 10, & 20 as our initial options)
 
-After hyperparameter tuning, GridSearchCV indicated that the best paramters (based on our inputs) were:   
+After hyperparameter tuning, GridSearchCV indicated that the best parameters (based on our inputs) were:   
 - n_estimators = 100
 - max_features = sqrt
 - max_depth = 20
@@ -61,6 +61,19 @@ After hyperparameter tuning, GridSearchCV indicated that the best paramters (bas
 Utilizing these new parameters, the model was run once again, resulting in the following:
 - R^2 = 0.9843
 - RMSE = 111967.66
+
+![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/d9dc9fda-d197-49f9-b8c9-0454da0c8710)
+
+As noted from the R^2 values shown above, a slight improvement was obtained post optimization (hyperparameter tuning) with GridSearchCV.
+
+Next, R^2 scores were obtained using cross validation and OOB scoring resulting in the following values:
+- cross validation R^2 = 0.9535
+- OOB R^2 = 0.9617
+
+Based on our optimized model, the most important features in determining the price of a home are shown below:   
+
+
+
 
 
 
