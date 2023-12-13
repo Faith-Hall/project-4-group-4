@@ -38,7 +38,7 @@ After cleaning the data, three options were selected as potential candidates for
 - Random Forest Regression
 
 A test of the three options showed that the Random Forest Regression model would be the best option for predicting home prices based on home features:
-https://github.com/Faith-Hall/project-4-group-4/blob/main/Visualizations/model_scoring_and_selection.png
+
 
 
 ### Resources: 
