@@ -10,7 +10,7 @@
 The link contains several visualizations in a tableau story. These include: A map of New York with hover detail of the average price in that city and two stacked bar graphs showing the relationship between bedroom count with price point and bathroom count with price point.
 
 ---
-# Repository
+# Repository:
 The final code is stored as two files in the "Code" folder and is described as follows:
 - cleaning-dataset.ipynb = Initial data cleaning and scatter plots of the boroughs of New York
 - Project_4_group_4_Machine_Learning_colab.ipynb = Final code for data cleaning, model selection, and model scoring
@@ -83,7 +83,7 @@ Next, R^2 scores were obtained using cross validation and OOB scoring resulting 
 - OOB R^2 = 0.9617
 
 ---
-## Conclusion:
+# Conclusion:
 Based on our optimized model, the most important features in determining the price of a home are shown below:   
 
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/cea24c46-09bf-43a0-b520-d7bdd1859dc5)
