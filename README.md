@@ -82,6 +82,8 @@ Next, R^2 scores were obtained using cross validation and OOB scoring resulting 
 - cross validation R^2 = 0.9535
 - OOB R^2 = 0.9617
 
+---
+## Conclusion:
 Based on our optimized model, the most important features in determining the price of a home are shown below:   
 
 ![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/cea24c46-09bf-43a0-b520-d7bdd1859dc5)
@@ -98,7 +100,7 @@ Based on our optimized model, the most important features in determining the pri
 - https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74#:~:text=n_estimators%20%3D%20number%20of%20trees%20in,levels%20in%20each%20decision%20tree
 - https://medium.com/data-science-at-microsoft/out-of-bag-validation-for-random-forests-378f2b292560#:~:text=OOB%20validation%20is%20much%20faster%20than%20k%2Dfold%20cross%2Dvalidation&text=In%20general%2C%20you%20can%20think,huge%20difference%20in%20compute%20time
  
-### Acknowlegements
+### Acknowlegements:
 Thank you to our instructional staff: 
 - Hunter Hollis
 - Sam Espe
