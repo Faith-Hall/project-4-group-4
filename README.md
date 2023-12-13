@@ -31,6 +31,14 @@ The aim of our project is to develop a machine learning algorithm to sort throug
 </p>
 
 ---
+## Model Selection and Optimization
+After cleaning the data, three options were selected as potential candidates for our machine learning model:
+- Linear Regression
+- Decision Tree
+- Random Forest Regression
+
+A test of the three options showed that the Random Forest Regression model would be the best option for predicting home prices based on home features.
+
 ### Resources: 
 - Dataset Used: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 - Image of New York City Boroughs Map: https://www.worldatlas.com/articles/the-boroughs-of-new-york-city.html
