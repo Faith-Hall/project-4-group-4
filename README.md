@@ -50,6 +50,7 @@ Once the Random Forest Regression model was selected, the data were split again 
 - R^2 = 0.9831
 - RMSE = 111967.66
 
+
 Next, to optimize the model further, GridSearchCV was utilized to tune the hyperparameters of:
 - n_estimators = number of trees in the forest (we selected 10, 100, & 500 as our initial options)
 - max_features = max number of features considered for splitting a node (we selected sqrt & log2 as our initial options)
@@ -66,6 +67,7 @@ Utilizing these new parameters, the model was run once again, resulting in the f
 
 - R^2 = 0.9843
 - RMSE = 111967.66
+
 
 As noted from the R^2 values shown above, a slight improvement was obtained post optimization (hyperparameter tuning) with GridSearchCV.
 
