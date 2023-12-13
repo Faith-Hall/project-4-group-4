@@ -43,14 +43,12 @@ A test of the three options (based on model scores and explained variance scores
 Once the Random Forest Regression model was selected, the data were split again into training and testing sets (this time using a 70/30 split) and an initial assessment of the model was performed. The results showed:
 - R^2^ = 0.9831
 - RMSE = 111967.66
-
-
-
+![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/d892f00b-00e7-4bdb-8517-ca7c8e9d300a)
 
 Next, to optimize the model further, GridSearchCV was utilized to tune the hyperparameters of:
-- n_estimators = number of trees in the foreset
-- max_features = max number of features considered for splitting a node
-- max_depth = max number of levels in each decision tree
+- n_estimators = number of trees in the foreset (we selected 10, 100, & 500 as our initial options)
+- max_features = max number of features considered for splitting a node (we selected sqrt & log2 as our initial options)
+- max_depth = max number of levels in each decision tree (we selected 5, 10, & 20 as our initial options)
 
 GridSearchCV indicated that the best paramters (based on our inputs) were:   
 - n_estimators = 
