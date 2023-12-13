@@ -72,11 +72,9 @@ Next, R^2 scores were obtained using cross validation and OOB scoring resulting 
 
 Based on our optimized model, the most important features in determining the price of a home are shown below:   
 
+![image](https://github.com/Faith-Hall/project-4-group-4/assets/137319054/cea24c46-09bf-43a0-b520-d7bdd1859dc5)
 
-
-
-
-
+---
 ### Resources: 
 - Dataset Used: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
 - Image of New York City Boroughs Map: https://www.worldatlas.com/articles/the-boroughs-of-new-york-city.html
