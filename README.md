@@ -8,11 +8,11 @@
 # Tableau story links:
 https://public.tableau.com/app/profile/angela.gosewehr/viz/housepriceswithstory/NewYorkhousesalestats?publish=yes   
 
-The link contains several visualizations in a tableau story. These include: A map of New York with hover detail of the average price in that city and two stacked bar graphs showing the relationship between bedroom count with price point and bathroom count with price point.
+The link contains several visualizations in a Tableau story. These include: A map of New York with hover detail of the average price in that city and two stacked bar graphs showing the relationship between bedroom count with price point and bathroom count with price point.
 
 https://public.tableau.com/app/profile/raeshawn.mcallister/viz/acrelotcoloredbyzipcode/Story2?publish=yes
 
-This link contains a treemap showing the correlation of acre lot to price
+This link contains a treemap showing the correlation of acre lot to price in Tableau.
 
 ---
 # Repository:
